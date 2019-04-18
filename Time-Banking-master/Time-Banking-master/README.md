@@ -16,6 +16,3 @@ The major use cases of the system are:
 • Responder views approximate time to a service location
 • Requester rates the service provided by a responder
 
-
-
-Contact Vincent for full project.
