@@ -1,10 +1,3 @@
-/*
-CIS 454
-Time Banker App
-Author: Joseph Urie
-Group #18
-Date: April 29th, 2018
-*/
 
 package com.timebanking.firebase;
 
